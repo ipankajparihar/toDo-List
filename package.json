@@ -1,7 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
-  "homepage": "https://ipankajparihar.github.io/toDOList",
+  "homepage": "https://ipankajparihar.github.io/toDo-List",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
